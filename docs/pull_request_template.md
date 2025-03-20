@@ -1,5 +1,5 @@
 ## Proposed changes
-\
+<br>
 
 ## Link to [Product Tracker] (https://www.atlassian.com/software/jira)
 
