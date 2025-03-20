@@ -1,65 +1,64 @@
 ---
-name: Task Creation Doc
-about: Describe this issue template's purpose here.
-title: ''
+name: GIT
+about: This task is about git and colloboration with other people in the team
+title: 'git practise'
 labels: ''
-assignees: ''
+assignees: 'SWE 1'
 
 ---
 
-<br>
-name: Task Creation Template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+## Task Owner (Responsible): Erick
 
-<br>
+## Task Assignee (Accountable): Binu K
 
-## Task Owner (Responsible): [First Name, Last Initial]
-
-## Task Assignee (Accountable): [First Name, Last Initial]
-
-## Task Deadline: [MM/DD/YYYY]
+## Task Deadline: 4/1/2025
 
 ## Task Description:
 
-* **Clearly describe the task, including what needs to be done and why.** *
+* **1. Make your changes locally in a separate branch.
+
+2. Push the changes back to your repository.
+
+3. Click the "Compare & pull request" button. This step compares the changes in the branch you just created with the main branch.
+
+4. Click "Create pull request" to open a new pull request.
+
+5. If there are rules set for the main branch, someone from the team must manually review and approve the pull request before merging the branches.** *
 
 ## Acceptance Criteria:
 
-* **Define specific criteria that must be met for the task to be considered complete. This sets clear expectations for the desired outcome.** *
+* **As long as you were able to merge your branch with main branch** *
 
 ## Estimation:
 
-* **Provide time estimates for each task based on complexity and effort. Use story points or time units (e.g., hours) to estimate.** *
+* **about 1 week** *
 
 ## Dependencies:
 
-* **Identify any dependencies on other tasks, team members, or external factors. Ensure that prerequisites are met before starting a task.** *
+* **VS Code, Git, Git Bash** *
 
 ## Priority:
 
-* **Assign a priority level to each task based on its importance and impact on the project. Prioritize tasks within the backlog or sprint.** *
+* **moderate** *
 
 ## Task Type:
 
-* **Categorize tasks based on their type (e.g., development, testing, design). This helps in planning and resource allocation.** *
+* **testing** *
 
 ## Subtasks:
 
-* **Break down larger tasks into smaller, manageable subtasks. This facilitates a more granular approach to tracking progress.** *
+* **colloborate with other people in the team** *
 
 <br>
 
 ## Testing Requirements:
 
-* **Specify testing requirements for each task, including unit tests and any necessary integration or end-to-end tests.** *
+* **Make sure you are able to merge your branch with the main branch** *
 
 ## Documentation:
 
-* **Identify any documentation needs associated with the task. This may include code comments, API documentation, or end-user documentation.** *
+* **Make sure to write a clear readme file with the instructions to follow.** *
 
 ## Definition of Done:
 
-* **Clearly define what "done" means for each task. This includes meeting coding standards, passing tests, and completing documentation.** *
+* **After making a pull request, you should be able to merge** *
