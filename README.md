@@ -48,3 +48,11 @@ You can create issues in your repository to plan, discuss, and track your work. 
 5. Making a pull request. If there is a conflict, learning how to resolve it.
 
 6. Lastly, assigning someone to review changes before merging and understanding how to do that.
+
+
+- What was Erick trying to accomplish?
+
+Erick was responsible for adding user greetings and checking their names in the app. He had two files called welcome.js and getName.js.
+
+**getName.js** retrieves the user's age, and **welcome.js** checks their eligibility based on their age and greets them accordingly.
+
