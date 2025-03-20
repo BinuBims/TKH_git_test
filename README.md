@@ -33,3 +33,18 @@ Pull requests are made when someone wants to merge changes from one branch into 
 You can create issues in your repository to plan, discuss, and track your work. Issues are easy to create and can be very specific. Want to learn more about them? Check out. [About issues] (https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
 
 
+#  Git Case Study exercise
+
+- This exercise focuses on:
+
+1. Creating my own repository.
+
+2. Adding rules to the main branch to protect it.
+
+3. Adding collaborators.
+
+4. Cloning someone’s repository and pushing changes to a different branch.
+
+5. Making a pull request. If there is a conflict, learning how to resolve it.
+
+6. Lastly, assigning someone to review changes before merging and understanding how to do that.
