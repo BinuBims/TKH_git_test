@@ -4,7 +4,7 @@
 
  It is one of the ways that developers communicate with each other. If you or your group is working on a large project, it could be like a story, with each message being a chapter. Below is the command line to execute a commit message:
 
- *git commit -m "your commit message goes in here
+ *git commit -m "your commit message goes in here*
 
 - - -
 # Pull Request
